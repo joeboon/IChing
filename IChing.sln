@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.IChing", "Example.IChing\Example.IChing.csproj", "{CF73D2C5-FF21-46D6-B0A8-D5B580172CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.IChing.AcceptanceTest", "Example.IChing.AcceptanceTest\Example.IChing.AcceptanceTest.csproj", "{A6D2BE16-D531-4D45-8CD6-6BF40A7FE5C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF73D2C5-FF21-46D6-B0A8-D5B580172CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF73D2C5-FF21-46D6-B0A8-D5B580172CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF73D2C5-FF21-46D6-B0A8-D5B580172CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF73D2C5-FF21-46D6-B0A8-D5B580172CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D2BE16-D531-4D45-8CD6-6BF40A7FE5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D2BE16-D531-4D45-8CD6-6BF40A7FE5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D2BE16-D531-4D45-8CD6-6BF40A7FE5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D2BE16-D531-4D45-8CD6-6BF40A7FE5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4177E194-167D-4E8D-8103-B70DC6F34A95}
+	EndGlobalSection
+EndGlobal
